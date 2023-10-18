@@ -1,0 +1,33 @@
+<mjml>
+  <mj-body>
+    <mj-container>
+      <mj-section background-color="#f7f7f7">
+        <mj-column>
+          <mj-image width="100px" src="static/logo.svg"/>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#222B49">
+        <mj-column> 
+        </mj-column> 
+      </mj-section>
+      <mj-section background-color="#31365e">
+        <mj-column> 
+            <mj-text  align="center"
+          font-style="italic"
+              font-size="10px"
+              color="white">
+              <a href="https://www.spaarfit.nl/privacy" style="text-decoration: none; color: white;">Privacy Statement</a>
+            &nbsp;• &nbsp;
+              <a href="https://www.spaarfit.nl/voorwaarden" style="text-decoration: none; color: white;">Algemene voorwaarden</a>
+          </mj-text>
+          <mj-text  align="center"
+          font-style="italic"
+              font-size="10px"
+              color="white">
+              © 2021 - Alle rechten voorbehouden
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
